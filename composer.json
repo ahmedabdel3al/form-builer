@@ -1,0 +1,14 @@
+{
+    "name": "boly/form-builder",
+    "authors": [
+        {
+            "name": "ahmedabdel3al",
+            "email": "abolya2011@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
